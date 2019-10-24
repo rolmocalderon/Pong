@@ -1,2 +1,1 @@
 # Pong
-The game
